@@ -121,8 +121,11 @@ O backend usa CORS para permitir acesso do React
 A exclusão usa window.confirm() como confirmação do navegador
 
 ---
-👨‍🏫 Créditos Acadêmicos
+<h2 align="center">👨‍🏫 Créditos Acadêmicos</h2>
 
-Desenvolvido por: Gabriel Cosso Cavalcanti
-Disciplina: Integração de Páginas Web com Banco de Dados  
+<p align="center">
+  <strong>Desenvolvido por:</strong> Gabriel Cosso Cavalcanti<br>
+  <strong>Disciplina:</strong> <em>Integração de Páginas Web com Banco de Dados</em>
+</p>
+ 
 
