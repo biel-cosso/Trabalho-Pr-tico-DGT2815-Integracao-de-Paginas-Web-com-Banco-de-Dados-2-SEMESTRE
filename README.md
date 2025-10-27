@@ -28,25 +28,21 @@ Este projeto consiste em uma aplicação **CRUD de Livros**, composta por **Fron
 ✔️ Atualização automática após cada operação  
 
 ---
-📦 projeto-crud-livros
-│
-├── 📁 backend
-│ ├── server.js
-│ ├── routes/livros.js
-│ ├── models/Livro.js
-│ └── database.js
-│
-└── 📁 frontend (React)
-├── src
-│ ├── App.js
-│ ├── LivroLista.jsx
-│ ├── LivroFormModal.jsx
-│ └── App.css
 ## 📁 Estrutura do Projeto
-
-
+projeto-crud-livros
+│── backend
+│ │── server.js
+│ │── database.js
+│ │── routes/livros.js
+│ │── models/Livro.js
+│
+│── frontend (React)
+│ │── src
+│ │ │── App.js
+│ │ │── LivroLista.jsx
+│ │ │── LivroFormModal.jsx
+│ │ │── App.css
 ---
-
 ## ⚙️ **Instalação e Execução**
 
 ### **🛠️ Backend (Node + MongoDB)**
@@ -66,7 +62,6 @@ Este projeto consiste em uma aplicação **CRUD de Livros**, composta por **Fron
 4. O backend rodará em:
    ```arduino
    http://localhost:3030
-
 ---
 
 🖥️ Frontend (React)
@@ -86,7 +81,6 @@ Este projeto consiste em uma aplicação **CRUD de Livros**, composta por **Fron
 4. O frontend abrirá em:
    ```arduino
    http://localhost:3000
-
 ---
 
 🌐 Endpoints da API
@@ -103,21 +97,21 @@ Este projeto consiste em uma aplicação **CRUD de Livros**, composta por **Fron
 🖼️ Prints da Aplicação
 
 📌 Lista de livros:
+
 <img width="1353" height="620" alt="image" src="https://github.com/user-attachments/assets/3a89df99-7ef9-4119-8f3f-f3d97ffde3ca" />
 
 📌 Modal de cadastro:
+
 <img width="681" height="485" alt="image" src="https://github.com/user-attachments/assets/4e488269-1e50-41f5-9082-9905bec6c48d" />
 
 📌 Modal de edição:
+
 <img width="680" height="485" alt="image" src="https://github.com/user-attachments/assets/d4d02091-c5f2-4315-a224-a9b0b67c4866" />
 
 ---
-
-👨‍🎓 Créditos Acadêmicos
-
-Desenvolvido por Gabriel Cosso Cavalcanti
+👨‍🏫 Créditos Acadêmicos  
+Desenvolvido por Gabriel Cosso Cavalcanti  
 Disciplina: Integração de Páginas Web com Banco de Dados
-
 ---
 📌 Observações
 
