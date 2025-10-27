@@ -100,19 +100,16 @@ projeto-crud-livros
 
 <img width="1353" height="620" alt="image" src="https://github.com/user-attachments/assets/3a89df99-7ef9-4119-8f3f-f3d97ffde3ca" />
 
+
 📌 Modal de cadastro:
 
 <img width="681" height="485" alt="image" src="https://github.com/user-attachments/assets/4e488269-1e50-41f5-9082-9905bec6c48d" />
+
 
 📌 Modal de edição:
 
 <img width="680" height="485" alt="image" src="https://github.com/user-attachments/assets/d4d02091-c5f2-4315-a224-a9b0b67c4866" />
 
----
-## 👨‍🏫 Créditos Acadêmicos
-
-**Desenvolvido por:** Gabriel Cosso Cavalcanti  
-**Disciplina:** *Integração de Páginas Web com Banco de Dados*
 ---
 📌 Observações
 
@@ -121,5 +118,9 @@ O modal fecha ao clicar no fundo ou pressionar ESC
 O backend usa cors para permitir acesso do React
 
 Confirmações nativas window.confirm() aparecem no navegador
+---
+## 👨‍🏫 Créditos Acadêmicos
 
+**Desenvolvido por:** Gabriel Cosso Cavalcanti  
+**Disciplina:** *Integração de Páginas Web com Banco de Dados*
 ---
