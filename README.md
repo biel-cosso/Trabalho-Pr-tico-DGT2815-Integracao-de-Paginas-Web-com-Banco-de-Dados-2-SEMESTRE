@@ -109,10 +109,10 @@ projeto-crud-livros
 <img width="680" height="485" alt="image" src="https://github.com/user-attachments/assets/d4d02091-c5f2-4315-a224-a9b0b67c4866" />
 
 ---
-👨‍🏫 Créditos Acadêmicos <br>
+## 👨‍🏫 Créditos Acadêmicos
 
-Desenvolvido por Gabriel Cosso Cavalcanti <br>
-Disciplina: Integração de Páginas Web com Banco de Dados
+**Desenvolvido por:** Gabriel Cosso Cavalcanti  
+**Disciplina:** *Integração de Páginas Web com Banco de Dados*
 ---
 📌 Observações
 
