@@ -29,6 +29,7 @@ Este projeto consiste em uma aplicação **CRUD de Livros**, composta por **Fron
 
 ---
 ## 📁 Estrutura do Projeto
+```
 projeto-crud-livros
 ├── backend
 │   ├── server.js
@@ -40,6 +41,7 @@ projeto-crud-livros
         ├── App.js
         ├── LivroLista.jsx
         └── LivroFormModal.jsx
+```
 ---
 ## ⚙️ **Instalação e Execução**
 
